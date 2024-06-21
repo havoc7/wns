@@ -7,3 +7,11 @@ File URL: https://raw.githubusercontent.com/parveenkrraina/wns/main/customerinfo
 
 
 ADF URL: https://learn.microsoft.com/en-us/azure/data-factory/tutorial-data-flow
+
+
+SQL Credentails:
+
+sqlserver20062024.database.windows.net
+Username: sqluser
+Password: Pa55w.rd123456
+database name: db01
