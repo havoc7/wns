@@ -4,3 +4,6 @@ https://learn.microsoft.com/en-us/azure/azure-sql/database/single-database-creat
 OneDrive URL: https://vnodeitsolutions-my.sharepoint.com/:f:/g/personal/parveen_raina_vnodeites_com/EsdjzzMwc3VLvvmKhHiKyqoBEzka7JuK6Ab97c-zLtUvwg?e=8QQYrU
 
 File URL: https://raw.githubusercontent.com/parveenkrraina/wns/main/customerinfo.csv
+
+
+ADF URL: https://learn.microsoft.com/en-us/azure/data-factory/tutorial-data-flow
