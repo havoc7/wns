@@ -14,4 +14,4 @@ SQL Credentails:
 sqlserver20062024.database.windows.net
 Username: sqluser
 Password: Pa55w.rd123456
-database name: db01
+database name: sqlpool01
