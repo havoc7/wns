@@ -15,3 +15,6 @@ sqlserver20062024.database.windows.net
 Username: sqluser
 Password: Pa55w.rd123456
 database name: sqlpool01
+
+
+Applied Skills Storage: https://learn.microsoft.com/en-us/credentials/applied-skills/secure-storage-azure-files-azure-blob-storage/
