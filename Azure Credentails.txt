@@ -22,3 +22,5 @@ Applied Skills Storage: https://learn.microsoft.com/en-us/credentials/applied-sk
 DP-203 Github URL: https://github.com/MicrosoftLearning/dp-203-azure-data-engineer
 
 Update email_id here: https://vnodeitsolutions-my.sharepoint.com/:x:/g/personal/parveen_raina_vnodeites_com/EUwNptbUmd5FoOFNM_cfSb8B871jFtNcwwClPMY4nFQGqQ?e=QKXVxE
+
+Storage Account Key: FrDA/GH/qsdzWzpCiiUakUua8egjqyUEY9SO6zyL47IYV5HbuIUH0AXSMg5OfHYx+pjqgs65plxp+AStzBBgOw==
